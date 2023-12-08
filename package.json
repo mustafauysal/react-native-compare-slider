@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taranisag/react-native-compare-slider.git"
+    "url": "git+https://github.com/mustafauysal/react-native-compare-slider.git"
   },
   "jest": {
     "preset": "jest-expo"
